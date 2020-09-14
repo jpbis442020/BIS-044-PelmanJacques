@@ -1,5 +1,3 @@
-cat("Hello World!")
-
 #differences in days 
 
 endofclass= as.Date("2020-12-04")
